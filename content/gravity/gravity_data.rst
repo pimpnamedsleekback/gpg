@@ -91,7 +91,7 @@ the correction factors are shown. Final interpretations would normally be made
 from the Bouguer anomaly graph (red).
 
 - **Latitude correction**: The earth's poles are closer to the center of the
-  equator than is the equator. However, there is more mass under the equator
+  earth than is the equator. However, there is more mass under the equator
   and there is an opposing centrifugal acceleration at the equator. The net
   effect is that gravity is greater at the poles than the equator.
 
